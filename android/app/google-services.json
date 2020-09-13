@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285321903653",
+    "firebase_url": "https://kora-9feed.firebaseio.com",
+    "project_id": "kora-9feed",
+    "storage_bucket": "kora-9feed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285321903653:android:8164a57852b589ee4389cc",
+        "android_client_info": {
+          "package_name": "com.example.kora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285321903653-83rsofdpaou3cf4jrr22s1opk8cia848.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXG-1yy0NzYVA3LcPNA40S2QH_aVhAwF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285321903653-83rsofdpaou3cf4jrr22s1opk8cia848.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
